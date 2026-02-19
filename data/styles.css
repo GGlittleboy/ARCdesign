@@ -84,6 +84,8 @@
   color:#000000;
   text-align:left;
 }
+._流程形状 {
+}
 .form_hint {
   color:#999999;
 }
@@ -95,5 +97,15 @@
 ._表单禁用 {
 }
 .flow_shape {
+}
+.box_2 {
+}
+._图片_ {
+}
+.ellipse {
+}
+.button {
+}
+.box_3 {
 }
 textarea, select, input, button { outline: none; }
