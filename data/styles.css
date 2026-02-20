@@ -12,6 +12,9 @@
 }
 .box_1 {
 }
+.checkbox {
+  text-align:left;
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -72,6 +75,8 @@
   color:#000000;
   text-align:left;
 }
+.flow_shape {
+}
 .text_area {
   color:#000000;
   text-align:left;
@@ -96,7 +101,7 @@
 }
 ._表单禁用 {
 }
-.flow_shape {
+.flow_shape1 {
 }
 .box_2 {
 }
@@ -106,6 +111,43 @@
 }
 .button {
 }
+.paragraph {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
 .box_3 {
+}
+.shape {
+}
+.placeholder {
+}
+.icon {
+}
+.image {
+}
+.line1 {
+}
+.radio_button {
+  text-align:left;
 }
 textarea, select, input, button { outline: none; }
