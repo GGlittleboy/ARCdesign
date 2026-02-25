@@ -21,6 +21,10 @@
 .link_button {
   color:#169BD5;
 }
+.shape {
+}
+.image {
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
@@ -137,17 +141,106 @@
 }
 .box_3 {
 }
-.shape {
+.shape1 {
 }
 .placeholder {
 }
 .icon {
 }
-.image {
+.image1 {
 }
 .line1 {
 }
 .radio_button {
   text-align:left;
+}
+._新的样式 {
+  color:#000000;
+  text-align:left;
+}
+.image2 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:10px;
+  color:#000000;
+}
+.form_disabled1 {
+  color:#000000;
+}
+.droplist1 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:10px;
+  color:#000000;
+  text-align:left;
+}
+.button_inactive {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:9px;
+  color:#000099;
+  text-align:center;
+}
+.link_inactive {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:9px;
+  color:#000099;
+  text-align:left;
+}
+.placeholder1 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:9px;
+  color:#333333;
+  text-align:center;
+}
+.tab-not_selected-active {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:9px;
+  color:#0000FF;
+  text-align:center;
+}
+.tab-selected_inactive {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:9px;
+  color:#000099;
+  text-align:center;
+}
+.line2 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:10px;
+  color:#000000;
+  text-align:left;
+}
+._默认样式 {
+}
+._鼠标按下文本链接时 {
+}
+._形状 {
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:#1ABC9C;
+}
+._图片 {
+}
+._形状1 {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#666666;
 }
 textarea, select, input, button { outline: none; }
